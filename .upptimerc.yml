@@ -9,8 +9,6 @@ sites:
     url: http://optispace.fr
   - name: Optispace APP
     url: http://app.optispace.fr
-  - name: Optispace API
-    url: http://api.optispace.fr
 
 status-website:
   baseUrl: /website-status
