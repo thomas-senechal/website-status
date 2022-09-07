@@ -18,21 +18,61 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
-    "slug": "test-broken-site",
-    "status": "down",
+    "name": "Optispace",
+    "url": "http://optispace.fr",
+    "icon": "https://favicons.githubusercontent.com/optispace.fr",
+    "slug": "optispace",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
+    "time": 596,
+    "timeDay": 596,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Optispace APP",
+    "url": "https://app.optispace.fr",
+    "icon": "https://favicons.githubusercontent.com/app.optispace.fr",
+    "slug": "optispace-app",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-07": 2
+    }
+  },
+  {
+    "name": "Optispace API",
+    "url": "https://api.optispace.fr",
+    "icon": "https://favicons.githubusercontent.com/api.optispace.fr",
+    "slug": "optispace-api",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-07": 2
+    }
   }
 ]
