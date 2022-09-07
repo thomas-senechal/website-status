@@ -5,8 +5,12 @@ repo: website-status # The name of this repository
 sites:
   - name: Massa
     url: https://massa.net
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Optispace
+    url: http://optispace.fr
+  - name: Optispace APP
+    url: https://app.optispace.fr
+  - name: Optispace API
+    url: https://api.optispace.fr
 
 status-website:
   baseUrl: /website-status
@@ -19,6 +23,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
