@@ -37,27 +37,27 @@
   },
   {
     "name": "Optispace APP",
-    "url": "https://app.optispace.fr",
+    "url": "http://app.optispace.fr",
     "icon": "https://favicons.githubusercontent.com/app.optispace.fr",
     "slug": "optispace-app",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 496,
+    "timeDay": 496,
+    "timeWeek": 496,
+    "timeMonth": 496,
+    "timeYear": 496,
     "dailyMinutesDown": {
-      "2022-09-07": 2
+      "2022-09-07": 7
     }
   },
   {
     "name": "Optispace API",
-    "url": "https://api.optispace.fr",
+    "url": "http://api.optispace.fr",
     "icon": "https://favicons.githubusercontent.com/api.optispace.fr",
     "slug": "optispace-api",
     "status": "down",
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-07": 2
+      "2022-09-07": 6
     }
   }
 ]
