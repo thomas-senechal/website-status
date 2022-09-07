@@ -11,3 +11,15 @@ sites:
     url: http://optispace.fr
   - name: Optispace APP
     url: http://app.optispace.fr
+
+status-website:
+  baseUrl: /website-status
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Massa status
+  introTitle: "Massa status website."
+  introMessage: ""
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
