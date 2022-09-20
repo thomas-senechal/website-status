@@ -4,19 +4,19 @@
     "url": "https://massa.net",
     "icon": "https://favicons.githubusercontent.com/massa.net",
     "slug": "massa",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 1903,
     "timeDay": 15040,
     "timeWeek": 4155,
     "timeMonth": 1903,
     "timeYear": 1903,
     "dailyMinutesDown": {
-      "2022-09-20": 9
+      "2022-09-20": 14
     }
   },
   {
@@ -42,10 +42,10 @@
     "url": "http://optispace.fr",
     "icon": "https://favicons.githubusercontent.com/optispace.fr",
     "slug": "optispace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
@@ -53,26 +53,28 @@
     "timeWeek": 479,
     "timeMonth": 455,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "Optispace APP",
     "url": "http://app.optispace.fr",
     "icon": "https://favicons.githubusercontent.com/app.optispace.fr",
     "slug": "optispace-app",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 634,
     "timeDay": 2461,
     "timeWeek": 944,
     "timeMonth": 634,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2022-09-20": 8
+      "2022-09-20": 13
     }
   },
   {
