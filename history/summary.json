@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/massa.net",
     "slug": "massa",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1846,
-    "timeDay": 10238,
-    "timeWeek": 3764,
-    "timeMonth": 1846,
-    "timeYear": 1846,
+    "uptime": "95.54%",
+    "uptimeDay": "39.95%",
+    "uptimeWeek": "91.42%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "95.54%",
+    "time": 1784,
+    "timeDay": 10251,
+    "timeWeek": 3740,
+    "timeMonth": 1784,
+    "timeYear": 1784,
     "dailyMinutesDown": {
-      "2022-09-20": 18
+      "2022-09-21": 125,
+      "2022-09-20": 739
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 210,
-    "timeWeek": 285,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 274,
+    "timeDay": 223,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/optispace.fr",
     "slug": "optispace",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 456,
-    "timeDay": 417,
-    "timeWeek": 480,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "uptime": "95.61%",
+    "uptimeDay": "40.90%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "95.61%",
+    "uptimeYear": "95.61%",
+    "time": 451,
+    "timeDay": 416,
+    "timeWeek": 449,
+    "timeMonth": 451,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2022-09-20": 4
+      "2022-09-21": 125,
+      "2022-09-20": 726
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/app.optispace.fr",
     "slug": "optispace-app",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 628,
-    "timeDay": 1803,
-    "timeWeek": 893,
-    "timeMonth": 628,
-    "timeYear": 628,
+    "uptime": "95.54%",
+    "uptimeDay": "40.02%",
+    "uptimeWeek": "91.43%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "95.54%",
+    "time": 612,
+    "timeDay": 1775,
+    "timeWeek": 857,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2022-09-20": 17
+      "2022-09-21": 125,
+      "2022-09-20": 738
     }
   },
   {
@@ -88,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 268,
-    "timeWeek": 396,
-    "timeMonth": 420,
-    "timeYear": 420,
+    "time": 415,
+    "timeDay": 352,
+    "timeWeek": 373,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   }
 ]
